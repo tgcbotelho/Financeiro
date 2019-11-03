@@ -16,8 +16,6 @@ C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Fi
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.TagHelpers.input.cache
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.TagHelpers.output.cache
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.RazorCoreGenerate.cache
-C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\thiag\Documents\GitHub\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs

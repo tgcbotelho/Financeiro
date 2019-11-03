@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="script-bd\" />
+    <Folder Include="ScriptDb\" />
   </ItemGroup>
 
   <ItemGroup>
