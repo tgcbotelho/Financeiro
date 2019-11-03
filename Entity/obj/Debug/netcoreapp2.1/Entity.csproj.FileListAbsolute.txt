@@ -1,0 +1,8 @@
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\bin\Debug\netcoreapp2.1\Entity.deps.json
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\bin\Debug\netcoreapp2.1\Entity.dll
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\obj\Debug\netcoreapp2.1\Entity.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\obj\Debug\netcoreapp2.1\Entity.dll
+C:\Users\thiag\Documents\GitHub\Financeiro\Entity\obj\Debug\netcoreapp2.1\Entity.pdb

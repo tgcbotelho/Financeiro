@@ -1,0 +1,8 @@
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\thiag\Documents\GitHub\Financeiro\Business\obj\Debug\netcoreapp2.1\Business.pdb
